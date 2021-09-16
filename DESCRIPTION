@@ -25,3 +25,5 @@ Imports:
     Rcpp
 Suggests:
     sampling
+URL: https://github.com/kucharsky/pipsboot
+BugReports: https://github.com/kucharsky/pipsboot/issues
