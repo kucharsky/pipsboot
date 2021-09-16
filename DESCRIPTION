@@ -1,0 +1,27 @@
+Package: pipsboot
+Type: Package
+Title: Bootstrap for Probability Proportional to Size Sampling
+Version: 0.0.0.9007
+Authors@R: c(
+    person(given = "Rafał",
+           family = "Kucharski",
+           role = c("aut", "cre"),
+           email = "rafal.kucharski@ue.katowice.pl",
+           comment = c(ORCID = "0000-0001-9391-1951")),
+    person(given = "Tomasz",
+           family = "Żądło",
+           role = "aut",
+           email = "tomasz.zadlo@ue.katowice.pl",
+           comment = c(ORCID = "0000-0003-0638-0748")))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
+Suggests:
+    sampling
